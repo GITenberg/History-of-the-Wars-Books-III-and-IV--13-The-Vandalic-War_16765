@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4712
     wikipedia: http://en.wikipedia.org/wiki/Procopius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16765#History-of-the-Wars-Books-III-and-IV--13-The-Vandalic-War
 gutenberg_issued: '2005-09-27'
 gutenberg_type: Text
 identifiers:
