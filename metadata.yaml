@@ -1,0 +1,39 @@
+_repo: History-of-the-Wars-Books-III-and-IV--13-The-Vandalic-War_16765
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Dewing, H. B. (Henry Bronson)
+    alias: Dewing, Henry Bronson
+    birthdate: 1882
+    gutenberg_agent_id: '6916'
+    url: http://www.gutenberg.org/2009/agents/6916
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Procopius
+    aliases:
+    - Procopius, of Caesarea
+    - Procopius, Caesariensis
+    gutenberg_agent_id: '4712'
+    url: http://www.gutenberg.org/2009/agents/4712
+    wikipedia: http://en.wikipedia.org/wiki/Procopius
+description: ''
+gutenberg_issued: '2005-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goths -- Italy'
+- !lcsh 'Vandals'
+- !lcsh 'Justinian I, Emperor of the East, 483?-565'
+- !lcsh 'Iran -- History -- To 640'
+- !lcsh 'Byzantine Empire -- History -- Justinian I, 527-565'
+- !lcc 'PA'
+title: "History of the Wars, Books III and IV\r\nThe Vandalic War"
+url: http://www.gutenberg.org/ebooks/16765
